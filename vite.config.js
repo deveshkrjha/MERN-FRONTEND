@@ -10,7 +10,7 @@ export default defineConfig({
       registerType: "autoUpdate",
       includeAssets: ["favicon.svg", "robots.txt", "apple-touch-icon.png"],
       manifest: {
-        name: "MERN Frontend",
+        name: "DEVESH Mern App",
         short_name: "DEVESH",
         description: "MERN Stack",
         theme_color: "#ffffff",
