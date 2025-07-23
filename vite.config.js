@@ -11,7 +11,7 @@ export default defineConfig({
       includeAssets: ["favicon.svg", "robots.txt", "apple-touch-icon.png"],
       manifest: {
         name: "MERN Frontend",
-        short_name: "MERN",
+        short_name: "DEVESH",
         description: "MERN Stack",
         theme_color: "#ffffff",
         icons: [
